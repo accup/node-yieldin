@@ -1,0 +1,22 @@
+{
+  "name": "yieldin",
+  "version": "1.0.2",
+  "description": "Easy interactive way to use Readable/Writable streams (I/O streams) with `yield` in a generator function.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accup/node-yieldin.git"
+  },
+  "author": "Accup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/accup/node-yieldin/issues"
+  },
+  "homepage": "https://github.com/accup/node-yieldin#readme"
+}
